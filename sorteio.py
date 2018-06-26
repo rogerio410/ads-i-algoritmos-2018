@@ -7,9 +7,9 @@ def main():
     random.shuffle(linhas)
 
     contador = 0
-    while contador < 57:
+    while contador < len(linhas):
         sorteado = linhas.pop()
-        print('Sorteado', sorteado)
+        print('Sorteado: ', sorteado)
         contador = contador + 1
         input()
 
