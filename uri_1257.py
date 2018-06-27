@@ -1,4 +1,5 @@
 # https://www.urionlinejudge.com.br/judge/pt/problems/view/1257
+# python3 uri_1257.py < uri_1257.txt
 
 
 def main():
