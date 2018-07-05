@@ -1,0 +1,6 @@
+5
+rogerio 10 10 10
+rogerio 5 10 10
+hamilton 4 8 3
+hamilton 2 3 3
+marcelo 0 0 0
