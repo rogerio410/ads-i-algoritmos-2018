@@ -5,12 +5,12 @@ def main():
 	qnt = len(mensagem) // 3 #qnt de loops
 
 	for i in range(qnt):
-		palavra_quebrada = mensagem[:3]
+		palavra_quebrada = mensagem[:3]  # SLICE NAO PERMITIDO
 		
 		if verificar_letra_diferente(palavra_quebrada):
 			contador += 1
-		
-		mensagem = mensagem[3:]
+
+		mensagem = mensagem[3:]  # SLICE NAO PERMITIDO
 	
 	print(contador)
 

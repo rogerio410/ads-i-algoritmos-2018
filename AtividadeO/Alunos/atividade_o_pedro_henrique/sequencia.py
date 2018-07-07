@@ -4,6 +4,11 @@ def main():
     c = separacao_termos_esq_dir()
     d = separacao_termos_dir_esq()
 
+    print(a)
+    print(b)
+    print(c)
+    print(d)
+
     if a == b == c == d:
         print('Todas retornam os mesmos valores')
     else:

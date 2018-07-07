@@ -12,7 +12,7 @@ def main():
 			   'F - sair'
 		print(menu)
 		
-		opçao = input().lower()
+		opçao = input().lower()  # NAO PERMITIDO
 
 		if opçao == 'a':
 			produto = inserir_produto()

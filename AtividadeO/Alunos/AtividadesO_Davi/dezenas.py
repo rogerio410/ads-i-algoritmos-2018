@@ -1,4 +1,4 @@
-ef main():
+def main():
 	#Entrada
 	num = input('Insira um numero natural de 4 digítos: ')
 

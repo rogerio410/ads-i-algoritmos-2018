@@ -8,6 +8,8 @@ def main():
     # Processamento
     soma = 0
     indice = 0
+
+    # SLICE NAO PERMITIDO
     binario_invertido = binario[::-1]# Inverte o número para que o caculo seja do fim para o começo.
 
     for i in range(len(binario)):

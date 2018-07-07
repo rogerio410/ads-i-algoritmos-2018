@@ -7,7 +7,7 @@ def main():
 
 
 def eh_maiuscula(letra):
-    if letra == letra.upper():
+    if letra == letra.upper():  # UPPER NAO PERMITIDO
         return True
 
 

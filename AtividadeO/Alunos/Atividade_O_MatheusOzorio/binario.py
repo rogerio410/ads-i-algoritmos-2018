@@ -10,11 +10,5 @@ def main():
     print(decimal)
 
 
-
-
-
-
-
-
 if __name__ == '__main__':
     main()

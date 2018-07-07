@@ -10,7 +10,7 @@ def eh_maiuscula(frase):
     contador_palavras = 1
 
     for posicao in range(len(frase) - 1):
-        if frase[posicao] == frase[posicao].upper():
+        if frase[posicao] == frase[posicao].upper():  # NAO PERMITIDO
             contador_palavras += 1
 
     return contador_palavras

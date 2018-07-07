@@ -1,3 +1,4 @@
+# NAO FEZ EUCLIDES
 def main():
     primeiro_numero = int(input('Digite o primeiro numero: '))
     segundo_numero = int(input('Digite o segundo numero: '))

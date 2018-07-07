@@ -9,7 +9,7 @@ def main(): #### SAUDADES TEMPO###
         n = n//2
         if n == 0:
             break
-        binario = binario[::-1]
+        binario = binario[::-1]  # NAO PERMITIDO SLICE
         binario = int(binario)
 
     def bin_for_dec(n):

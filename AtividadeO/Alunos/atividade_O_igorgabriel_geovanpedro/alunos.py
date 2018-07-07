@@ -12,7 +12,7 @@ def main():
         media = (nota1 + nota2 + nota3) / 3
         if media >= 7:
             aprovados += 1
-        elif 7 > media > 4:
+        elif 7 > media > 4: # ERRADO
             reprovados += 1
         else:
             prova_final += 1

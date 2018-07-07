@@ -2,51 +2,57 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0a1af54-5b13-4225-adf4-3954721a3ae2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade O Isaias Santana/alunos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade O Isaias Santana/binario.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade O Isaias Santana/camel_case.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade O Isaias Santana/comanda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade O Isaias Santana/dezenas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade O Isaias Santana/marte.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade O Isaias Santana/perfeito.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_ElcyJames/alunos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_ElcyJames/binario.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_ElcyJames/comanda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_ElcyJames/dezenas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_ElcyJames/marte.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_ElcyJames/mdc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_ElcyJames/perfeito.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_ElcyJames/sequencia.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_Leo/alunos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_Leo/binario.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_Leo/camel_case.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_Leo/comanda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_Leo/dezenas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_Leo/marte.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_Leo/mdc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_Leo/perfeito.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_Leo/sequência.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_MatheusOzorio/alunos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_MatheusOzorio/binario.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_MatheusOzorio/camel_case.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_MatheusOzorio/comanda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_MatheusOzorio/dezenas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_MatheusOzorio/marte.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_MatheusOzorio/mdc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_MatheusOzorio/perfeito.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_RonielDias/alunos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_RonielDias/binário.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_RonielDias/camel_case.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_RonielDias/comanda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_RonielDias/dezenas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_RonielDias/perfeito.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/atv_O_ws/alunos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/atv_O_ws/binario.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/atv_O_ws/comanda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/atv_O_ws/dezenas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/atv_O_ws/marte.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/atv_O_ws/perfeito.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadeO/Alunos/ATIVIDADE_O_FELIPE_NELSON/alunos.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadeO/Alunos/ATIVIDADE_O_FELIPE_NELSON/alunos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadeO/Alunos/ATIVIDADE_O_FELIPE_NELSON/dezenas.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadeO/Alunos/ATIVIDADE_O_FELIPE_NELSON/dezenas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadeO/Alunos/ATIVIDADE_O_FELIPE_NELSON/marte.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadeO/Alunos/ATIVIDADE_O_FELIPE_NELSON/marte.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadeO/Alunos/ATV_O_Paulo_Ricardo/camel_case.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadeO/Alunos/ATV_O_Paulo_Ricardo/camel_case.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadeO/Alunos/ATV_O_Paulo_Ricardo/dezenas.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadeO/Alunos/ATV_O_Paulo_Ricardo/dezenas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadeO/Alunos/ATV_O_Paulo_Ricardo/mdc.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadeO/Alunos/ATV_O_Paulo_Ricardo/mdc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadeO/Alunos/AtividadeO_Bruno_Jose/binario.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadeO/Alunos/AtividadeO_Bruno_Jose/binario.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_AntonioHenrique/alunos.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_AntonioHenrique/alunos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_JosivanCardoso/mdc.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_JosivanCardoso/mdc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_Leo/alunos.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_Leo/alunos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_Leo/dezenas.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_Leo/dezenas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_Leo/mdc.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_Leo/mdc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_Leo/perfeito.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_Leo/perfeito.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_Marcos_Castelo_Branco_Nunes/mdc.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_Marcos_Castelo_Branco_Nunes/mdc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_MatheusOzorio/binario.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_MatheusOzorio/binario.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_MatheusOzorio/perfeito.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_MatheusOzorio/perfeito.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_RonielDias/binário.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_RonielDias/binário.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_RonielDias/comanda.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_RonielDias/comanda.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_RonielDias/dezenas.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_RonielDias/dezenas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadeO/Alunos/AtividadesO_Davi/dezenas.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadeO/Alunos/AtividadesO_Davi/dezenas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadeO/Alunos/Atv_0_PRVA_LuanDaSilvaRodrigues/comanda.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atv_0_PRVA_LuanDaSilvaRodrigues/comanda.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadeO/Alunos/Atv_0_PRVA_LuanDaSilvaRodrigues/marte.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atv_0_PRVA_LuanDaSilvaRodrigues/marte.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadeO/Alunos/Atv_O_GeovaneNarciso/PROVA/binario.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atv_O_GeovaneNarciso/PROVA/binario.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadeO/Alunos/Atv_O_GeovaneNarciso/PROVA/camel_case.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atv_O_GeovaneNarciso/PROVA/camel_case.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadeO/Alunos/Atv_O_GeovaneNarciso/PROVA/marte.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atv_O_GeovaneNarciso/PROVA/marte.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadeO/Alunos/atividade-O-francimara-heverton/01mdc.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadeO/Alunos/atividade-O-heverton/01mdc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadeO/Alunos/atividade-O-francimara-heverton/02perfeito.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadeO/Alunos/atividade-O-heverton/02perfeito.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadeO/Alunos/atividade-O-francimara-heverton/03binario.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadeO/Alunos/atividade-O-heverton/03binario.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadeO/Alunos/atividade-O-francimara-heverton/04dezenas.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadeO/Alunos/atividade-O-heverton/04dezenas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadeO/Alunos/atividade-O-francimara-heverton/05alunos.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadeO/Alunos/atividade-O-heverton/05alunos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadeO/Alunos/atividade-O-francimara-heverton/06sequencia.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadeO/Alunos/atividade-O-heverton/06sequencia.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadeO/Alunos/atividade-O-francimara-heverton/07camel_case.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadeO/Alunos/atividade-O-heverton/07camel_case.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadeO/Alunos/atividade-O-francimara-heverton/08marte.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadeO/Alunos/atividade-O-heverton/08marte.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadeO/Alunos/atividade-O-francimara-heverton/09comanda.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadeO/Alunos/atividade-O-heverton/09comanda.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadeO/Alunos/atividade_O_igorgabriel_geovanpedro/alunos.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadeO/Alunos/atividade_O_igorgabriel_geovanpedro/alunos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadeO/Alunos/atividade_O_igorgabriel_geovanpedro/binario.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadeO/Alunos/atividade_O_igorgabriel_geovanpedro/binario.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadeO/Alunos/atividade_O_igorgabriel_geovanpedro/camel_case.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadeO/Alunos/atividade_O_igorgabriel_geovanpedro/camel_case.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadeO/Alunos/atividade_O_igorgabriel_geovanpedro/mdc.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadeO/Alunos/atividade_O_igorgabriel_geovanpedro/mdc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadeO/Alunos/atividade_o_Vitor_Hugo/alunos.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadeO/Alunos/atividade_o_Vitor_Hugo/alunos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadeO/Alunos/atividade_o_Vitor_Hugo/binario.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadeO/Alunos/atividade_o_Vitor_Hugo/binario.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadeO/Alunos/atividade_o_Vitor_Hugo/mdc.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadeO/Alunos/atividade_o_Vitor_Hugo/mdc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadeO/Alunos/atividade_o_antonio_hamilton_gomes_melo/mdc.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadeO/Alunos/atividade_o_antonio_hamilton_gomes_melo/mdc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadeO/Alunos/atividade_o_pedro_henrique/camel_case.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadeO/Alunos/atividade_o_pedro_henrique/camel_case.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadeO/Alunos/atividade_o_pedro_henrique/marte.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadeO/Alunos/atividade_o_pedro_henrique/marte.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadeO/Alunos/atividade_o_pedro_henrique/mdc.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadeO/Alunos/atividade_o_pedro_henrique/mdc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadeO/Alunos/atividade_o_pedro_henrique/sequencia.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadeO/Alunos/atividade_o_pedro_henrique/sequencia.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadeO/Alunos/atividadedojohnemerson/marte.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadeO/Alunos/atividadedojohnemerson/marte.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadeO/Alunos/atv_O_ws/binario.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadeO/Alunos/atv_O_ws/binario.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadeO/Alunos/provamanoel/binario.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadeO/Alunos/provamanoel/binario.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadeO/Alunos/provamanoel/dezenas.py" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadeO/Alunos/provamanoel/dezenas.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -56,37 +62,52 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$hello_for.coverage" NAME="hello_for Coverage Results" MODIFIED="1528303501982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$camel_case_pythonico.coverage" NAME="camel_case_pythonico Coverage Results" MODIFIED="1530969473351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_Paulo_Vilarinho" />
     <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$Fabio04_q09.coverage" NAME="Fabio04_q09 Coverage Results" MODIFIED="1527707565036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$uri_1098.coverage" NAME="uri_1098 Coverage Results" MODIFIED="1528744968953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$dezenas.coverage" NAME="dezenas Coverage Results" MODIFIED="1530724535131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtividadeO" />
-    <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$wordplay_russia.coverage" NAME="wordplay_russia Coverage Results" MODIFIED="1529515776528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wordplay" />
+    <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$dezenas.coverage" NAME="dezenas Coverage Results" MODIFIED="1530973582146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtividadeO/Alunos/provamanoel" />
+    <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$binário_pythonico.coverage" NAME="binário_pythonico Coverage Results" MODIFIED="1530969434679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_Paulo_Vilarinho" />
     <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$Fabio03_q13b.coverage" NAME="Fabio03_q13b Coverage Results" MODIFIED="1528310325247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$marte.coverage" NAME="marte Coverage Results" MODIFIED="1530726816526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtividadeO" />
-    <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$Fabio03_q21.coverage" NAME="Fabio03_q21 Coverage Results" MODIFIED="1528746968724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$Fabio10_q10.coverage" NAME="Fabio10_q10 Coverage Results" MODIFIED="1529521052486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fabio06_String" />
-    <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$binario.coverage" NAME="binario Coverage Results" MODIFIED="1530724035173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtividadeO" />
+    <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$marte.coverage" NAME="marte Coverage Results" MODIFIED="1530973623678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtividadeO/Alunos/provamanoel" />
     <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$Fabio06_q03.coverage" NAME="Fabio06_q03 Coverage Results" MODIFIED="1529518288652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fabio06_String" />
     <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$Fabio06_q03b.coverage" NAME="Fabio06_q03b Coverage Results" MODIFIED="1529518645414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fabio06_String" />
-    <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$mdc.coverage" NAME="mdc Coverage Results" MODIFIED="1530722742451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtividadeO" />
-    <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$comanda.coverage" NAME="comanda Coverage Results" MODIFIED="1530728273743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtividadeO" />
-    <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$perfeito.coverage" NAME="perfeito Coverage Results" MODIFIED="1530723427138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtividadeO" />
+    <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$camel_case__1_.coverage" NAME="camel_case (1) Coverage Results" MODIFIED="1530968845524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_Natanael" />
+    <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$sequencia__1_.coverage" NAME="sequencia (1) Coverage Results" MODIFIED="1530972722722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtividadeO/Alunos/Atv_O_GeovaneNarciso/PROVA" />
+    <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$mdc.coverage" NAME="mdc Coverage Results" MODIFIED="1530972950638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtividadeO/Alunos/ATV_O_Paulo_Ricardo" />
+    <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$dezenas__1_.coverage" NAME="dezenas (1) Coverage Results" MODIFIED="1530973204184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtividadeO/Alunos/atv_O_ws" />
+    <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$comanda.coverage" NAME="comanda Coverage Results" MODIFIED="1530973521536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtividadeO/Alunos/provamanoel" />
+    <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$perfeito.coverage" NAME="perfeito Coverage Results" MODIFIED="1530973665454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtividadeO/Alunos/provamanoel" />
     <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$wordplay.coverage" NAME="wordplay Coverage Results" MODIFIED="1528834265405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wordplay" />
-    <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$Fabio06_q05.coverage" NAME="Fabio06_q05 Coverage Results" MODIFIED="1529519973810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fabio06_String" />
+    <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$perfeito__1_.coverage" NAME="perfeito (1) Coverage Results" MODIFIED="1530973274506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtividadeO/Alunos/atv_O_ws" />
     <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$Fabio03_q17.coverage" NAME="Fabio03_q17 Coverage Results" MODIFIED="1528308824634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$hello.coverage" NAME="hello Coverage Results" MODIFIED="1527699698219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$ascii_table.coverage" NAME="ascii_table Coverage Results" MODIFIED="1528307620917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$Fabio06_q02.coverage" NAME="Fabio06_q02 Coverage Results" MODIFIED="1529517468779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fabio06_String" />
+    <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$Q2.coverage" NAME="Q2 Coverage Results" MODIFIED="1530971160876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtividadeO/Alunos/atividadeo_antonielwilliam" />
+    <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$alunos.coverage" NAME="alunos Coverage Results" MODIFIED="1530973423248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtividadeO/Alunos/provamanoel" />
     <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$mdc_geovane.coverage" NAME="mdc_geovane Coverage Results" MODIFIED="1530722898295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtividadeO" />
     <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$uri_1059.coverage" NAME="uri_1059 Coverage Results" MODIFIED="1527702875500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$uri_1061.coverage" NAME="uri_1061 Coverage Results" MODIFIED="1527703388594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$Fabio03_q11.coverage" NAME="Fabio03_q11 Coverage Results" MODIFIED="1528746575312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$sequencia.coverage" NAME="sequencia Coverage Results" MODIFIED="1530730025764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtividadeO" />
+    <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$mdc__1_.coverage" NAME="mdc (1) Coverage Results" MODIFIED="1530972102589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtividadeO/Alunos/AtividadesO_Davi" />
+    <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$alunos__1_.coverage" NAME="alunos (1) Coverage Results" MODIFIED="1530972761983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtividadeO/Alunos/ATV_O_Paulo_Ricardo" />
     <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$Fabio06_q04.coverage" NAME="Fabio06_q04 Coverage Results" MODIFIED="1529519118754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fabio06_String" />
-    <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$camel_case.coverage" NAME="camel_case Coverage Results" MODIFIED="1530726120997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtividadeO" />
-    <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$Fabio03_q01.coverage" NAME="Fabio03_q01 Coverage Results" MODIFIED="1528308759801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$Fabio03_q16.coverage" NAME="Fabio03_q16 Coverage Results" MODIFIED="1528747560871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$uri_1064.coverage" NAME="uri_1064 Coverage Results" MODIFIED="1527705252497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$comanda__1_.coverage" NAME="comanda (1) Coverage Results" MODIFIED="1530973145843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtividadeO/Alunos/atv_O_ws" />
+    <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$hello_for.coverage" NAME="hello_for Coverage Results" MODIFIED="1528303501982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$wordplay_russia.coverage" NAME="wordplay_russia Coverage Results" MODIFIED="1529515776528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wordplay" />
+    <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$Fabio03_q21.coverage" NAME="Fabio03_q21 Coverage Results" MODIFIED="1528746968724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$Fabio10_q10.coverage" NAME="Fabio10_q10 Coverage Results" MODIFIED="1529521052486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fabio06_String" />
+    <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$binario.coverage" NAME="binario Coverage Results" MODIFIED="1530973376169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtividadeO/Alunos/avididade_O_LucasCoelho" />
+    <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$binário.coverage" NAME="binário Coverage Results" MODIFIED="1530969428282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_Paulo_Vilarinho" />
+    <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$binario__1_.coverage" NAME="binario (1) Coverage Results" MODIFIED="1530973485382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtividadeO/Alunos/provamanoel" />
+    <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$Fabio06_q05.coverage" NAME="Fabio06_q05 Coverage Results" MODIFIED="1529519973810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fabio06_String" />
+    <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$hello.coverage" NAME="hello Coverage Results" MODIFIED="1527699698219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$marte__1_.coverage" NAME="marte (1) Coverage Results" MODIFIED="1530968690789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_MatheusOzorio" />
+    <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$Fabio06_q02.coverage" NAME="Fabio06_q02 Coverage Results" MODIFIED="1529517468779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fabio06_String" />
+    <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$uri_1061.coverage" NAME="uri_1061 Coverage Results" MODIFIED="1527703388594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$sequencia.coverage" NAME="sequencia Coverage Results" MODIFIED="1530972531307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtividadeO/Alunos/Atv_0_PRVA_LuanDaSilvaRodrigues" />
+    <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$02perfeito.coverage" NAME="02perfeito Coverage Results" MODIFIED="1530963454655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtividadeO/Alunos/atividade-O-francimara-heverton" />
+    <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$camel_case.coverage" NAME="camel_case Coverage Results" MODIFIED="1530973501290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtividadeO/Alunos/provamanoel" />
+    <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$Fabio03_q01.coverage" NAME="Fabio03_q01 Coverage Results" MODIFIED="1528308759801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$sorteio.coverage" NAME="sorteio Coverage Results" MODIFIED="1529516015705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$uri_1257.coverage" NAME="uri_1257 Coverage Results" MODIFIED="1530054927917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$uri_1050.coverage" NAME="uri_1050 Coverage Results" MODIFIED="1527704617166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -94,13 +115,7 @@
     <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$Fabio06_q01.coverage" NAME="Fabio06_q01 Coverage Results" MODIFIED="1529517617984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fabio06_String" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="mdc.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_ElcyJames/mdc.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -125,43 +140,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/hello.py" />
-        <option value="$PROJECT_DIR$/uri_1059.py" />
-        <option value="$PROJECT_DIR$/uri_1061.py" />
-        <option value="$PROJECT_DIR$/uri_1050.py" />
-        <option value="$PROJECT_DIR$/uri_1064.py" />
-        <option value="$PROJECT_DIR$/Fabio04_q09.py" />
-        <option value="$PROJECT_DIR$/hello_for.py" />
-        <option value="$PROJECT_DIR$/hello_for2.py" />
-        <option value="$PROJECT_DIR$/nomes.txt" />
-        <option value="$PROJECT_DIR$/hello_for3.py" />
-        <option value="$PROJECT_DIR$/ascii_table.py" />
-        <option value="$PROJECT_DIR$/Fabio03_q01.py" />
-        <option value="$PROJECT_DIR$/Fabio03_q17.py" />
-        <option value="$PROJECT_DIR$/Fabio03_q13.py" />
-        <option value="$PROJECT_DIR$/Fabio03_q13b.py" />
-        <option value="$PROJECT_DIR$/fb03_q23.txt" />
-        <option value="$PROJECT_DIR$/Fabio03_q23.py" />
-        <option value="$PROJECT_DIR$/uri_1098.py" />
-        <option value="$PROJECT_DIR$/Fabio03_q11.py" />
-        <option value="$PROJECT_DIR$/Fabio03_q21.py" />
-        <option value="$PROJECT_DIR$/Fabio03_q16.py" />
-        <option value="$PROJECT_DIR$/wordplay/wordplay.py" />
-        <option value="$PROJECT_DIR$/wordplay/wordplay_russia.py" />
-        <option value="$PROJECT_DIR$/sorteio.py" />
-        <option value="$PROJECT_DIR$/Fabio06_String/Fabio06_q01.py" />
-        <option value="$PROJECT_DIR$/alunos.txt" />
-        <option value="$PROJECT_DIR$/Fabio06_String/Fabio06_q03.py" />
-        <option value="$PROJECT_DIR$/Fabio06_String/Fabio06_q02.py" />
-        <option value="$PROJECT_DIR$/Fabio06_String/Fabio06_q03b.py" />
-        <option value="$PROJECT_DIR$/Fabio06_String/Fabio06_q04.py" />
-        <option value="$PROJECT_DIR$/Fabio06_String/Fabio06_q05.py" />
-        <option value="$PROJECT_DIR$/Fabio06_String/Fabio10_q10.py" />
-        <option value="$PROJECT_DIR$/uri_1257.txt" />
-        <option value="$PROJECT_DIR$/uri_1257.py" />
-        <option value="$PROJECT_DIR$/AtividadeO/mdc.py" />
-        <option value="$PROJECT_DIR$/AtividadeO/mdc_geovane.py" />
-        <option value="$PROJECT_DIR$/AtividadeO/perfeito.py" />
         <option value="$PROJECT_DIR$/AtividadeO/binario.py" />
         <option value="$PROJECT_DIR$/AtividadeO/dezenas.py" />
         <option value="$PROJECT_DIR$/AtividadeO/alunos.py" />
@@ -171,6 +149,48 @@
         <option value="$PROJECT_DIR$/AtividadeO/marte.py" />
         <option value="$PROJECT_DIR$/AtividadeO/comanda.py" />
         <option value="$PROJECT_DIR$/AtividadeO/sequencia.py" />
+        <option value="$PROJECT_DIR$/AtividadeO/Alunos/atividade_o_antonio_hamilton_gomes_melo/mdc.py" />
+        <option value="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_AntonioHenrique/alunos.py" />
+        <option value="$PROJECT_DIR$/AtividadeO/Alunos/ATIVIDADE_O_FELIPE_NELSON/alunos.py" />
+        <option value="$PROJECT_DIR$/AtividadeO/Alunos/ATIVIDADE_O_FELIPE_NELSON/dezenas.py" />
+        <option value="$PROJECT_DIR$/AtividadeO/Alunos/ATIVIDADE_O_FELIPE_NELSON/marte.py" />
+        <option value="$PROJECT_DIR$/AtividadeO/Alunos/atividade_O_igorgabriel_geovanpedro/alunos.py" />
+        <option value="$PROJECT_DIR$/AtividadeO/Alunos/atividade_O_igorgabriel_geovanpedro/binario.py" />
+        <option value="$PROJECT_DIR$/AtividadeO/Alunos/atividade_O_igorgabriel_geovanpedro/camel_case.py" />
+        <option value="$PROJECT_DIR$/AtividadeO/Alunos/atividade_O_igorgabriel_geovanpedro/mdc.py" />
+        <option value="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_JosivanCardoso/mdc.py" />
+        <option value="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_Leo/alunos.py" />
+        <option value="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_Leo/dezenas.py" />
+        <option value="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_Leo/mdc.py" />
+        <option value="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_Leo/perfeito.py" />
+        <option value="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_Marcos_Castelo_Branco_Nunes/mdc.py" />
+        <option value="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_MatheusOzorio/binario.py" />
+        <option value="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_MatheusOzorio/perfeito.py" />
+        <option value="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_Natanael/mdc.py" />
+        <option value="$PROJECT_DIR$/AtividadeO/Alunos/atividade_o_pedro_henrique/camel_case.py" />
+        <option value="$PROJECT_DIR$/AtividadeO/Alunos/atividade_o_pedro_henrique/marte.py" />
+        <option value="$PROJECT_DIR$/AtividadeO/Alunos/atividade_o_pedro_henrique/mdc.py" />
+        <option value="$PROJECT_DIR$/AtividadeO/Alunos/atividade_o_pedro_henrique/sequencia.py" />
+        <option value="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_RonielDias/binário.py" />
+        <option value="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_RonielDias/comanda.py" />
+        <option value="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_RonielDias/dezenas.py" />
+        <option value="$PROJECT_DIR$/AtividadeO/Alunos/atividade_o_Vitor_Hugo/alunos.py" />
+        <option value="$PROJECT_DIR$/AtividadeO/Alunos/atividade_o_Vitor_Hugo/binario.py" />
+        <option value="$PROJECT_DIR$/AtividadeO/Alunos/atividade_o_Vitor_Hugo/mdc.py" />
+        <option value="$PROJECT_DIR$/AtividadeO/Alunos/atividadedojohnemerson/marte.py" />
+        <option value="$PROJECT_DIR$/AtividadeO/Alunos/AtividadeO_Bruno_Jose/binario.py" />
+        <option value="$PROJECT_DIR$/AtividadeO/Alunos/AtividadesO_Davi/dezenas.py" />
+        <option value="$PROJECT_DIR$/AtividadeO/Alunos/Atv_0_PRVA_LuanDaSilvaRodrigues/comanda.py" />
+        <option value="$PROJECT_DIR$/AtividadeO/Alunos/Atv_0_PRVA_LuanDaSilvaRodrigues/marte.py" />
+        <option value="$PROJECT_DIR$/AtividadeO/Alunos/Atv_O_GeovaneNarciso/PROVA/binario.py" />
+        <option value="$PROJECT_DIR$/AtividadeO/Alunos/Atv_O_GeovaneNarciso/PROVA/camel_case.py" />
+        <option value="$PROJECT_DIR$/AtividadeO/Alunos/Atv_O_GeovaneNarciso/PROVA/marte.py" />
+        <option value="$PROJECT_DIR$/AtividadeO/Alunos/ATV_O_Paulo_Ricardo/camel_case.py" />
+        <option value="$PROJECT_DIR$/AtividadeO/Alunos/ATV_O_Paulo_Ricardo/dezenas.py" />
+        <option value="$PROJECT_DIR$/AtividadeO/Alunos/ATV_O_Paulo_Ricardo/mdc.py" />
+        <option value="$PROJECT_DIR$/AtividadeO/Alunos/atv_O_ws/binario.py" />
+        <option value="$PROJECT_DIR$/AtividadeO/Alunos/provamanoel/binario.py" />
+        <option value="$PROJECT_DIR$/AtividadeO/Alunos/provamanoel/dezenas.py" />
       </list>
     </option>
   </component>
@@ -206,33 +226,6 @@
               <item name="ads_ifpi_2018_algoritmos" type="462c0819:PsiDirectoryNode" />
               <item name="AtividadeO" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="ads_ifpi_2018_algoritmos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ads_ifpi_2018_algoritmos" type="462c0819:PsiDirectoryNode" />
-              <item name="AtividadeO" type="462c0819:PsiDirectoryNode" />
-              <item name="Alunos" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ads_ifpi_2018_algoritmos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ads_ifpi_2018_algoritmos" type="462c0819:PsiDirectoryNode" />
-              <item name="AtividadeO" type="462c0819:PsiDirectoryNode" />
-              <item name="Alunos" type="462c0819:PsiDirectoryNode" />
-              <item name="Atividade O Isaias Santana" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ads_ifpi_2018_algoritmos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ads_ifpi_2018_algoritmos" type="462c0819:PsiDirectoryNode" />
-              <item name="AtividadeO" type="462c0819:PsiDirectoryNode" />
-              <item name="Alunos" type="462c0819:PsiDirectoryNode" />
-              <item name="Atividade_O_ElcyJames" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ads_ifpi_2018_algoritmos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ads_ifpi_2018_algoritmos" type="462c0819:PsiDirectoryNode" />
-              <item name="AtividadeO" type="462c0819:PsiDirectoryNode" />
-              <item name="Alunos" type="462c0819:PsiDirectoryNode" />
-              <item name="Atividade_O_MatheusOzorio" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -267,7 +260,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.sequencia">
+  <component name="RunManager" selected="Python.perfeito">
     <configuration name="camel_case" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ads_ifpi_2018_algoritmos" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -276,12 +269,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AtividadeO" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AtividadeO/Alunos/provamanoel" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AtividadeO/camel_case.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AtividadeO/Alunos/provamanoel/camel_case.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -295,12 +288,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AtividadeO" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AtividadeO/Alunos/provamanoel" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AtividadeO/comanda.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AtividadeO/Alunos/provamanoel/comanda.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -314,12 +307,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AtividadeO" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AtividadeO/Alunos/provamanoel" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AtividadeO/dezenas.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AtividadeO/Alunos/provamanoel/dezenas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -333,18 +326,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AtividadeO" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AtividadeO/Alunos/provamanoel" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AtividadeO/marte.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AtividadeO/Alunos/provamanoel/marte.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="sequencia" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="perfeito" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ads_ifpi_2018_algoritmos" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -352,31 +345,31 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AtividadeO" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AtividadeO/Alunos/provamanoel" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AtividadeO/sequencia.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AtividadeO/Alunos/provamanoel/perfeito.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.dezenas" />
       <item itemvalue="Python.camel_case" />
-      <item itemvalue="Python.marte" />
       <item itemvalue="Python.comanda" />
-      <item itemvalue="Python.sequencia" />
+      <item itemvalue="Python.dezenas" />
+      <item itemvalue="Python.marte" />
+      <item itemvalue="Python.perfeito" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.sequencia" />
-        <item itemvalue="Python.comanda" />
+        <item itemvalue="Python.perfeito" />
         <item itemvalue="Python.marte" />
-        <item itemvalue="Python.camel_case" />
         <item itemvalue="Python.dezenas" />
+        <item itemvalue="Python.comanda" />
+        <item itemvalue="Python.camel_case" />
       </list>
     </recent_temporary>
   </component>
@@ -399,11 +392,11 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2928" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2528" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3296" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.64891845" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.33052278" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38045233" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27786753" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -426,329 +419,292 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/saidas.rog">
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/AtividadesO_Davi/binario.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-515" />
+        <state relative-caret-position="-28" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hello_for.py">
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/AtividadesO_Davi/comanda.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        <state relative-caret-position="-519" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/AtividadesO_Davi/dezenas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nomes.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hello_for2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hello_for3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ascii_table.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/saida.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="4949" lean-forward="true" selection-start-line="4949" selection-end-line="4949" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/numeros.txt">
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/AtividadesO_Davi/mdc.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Fabio03_q13.py">
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/AtividadesO_Davi/perfeito.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="12" selection-end-line="14" selection-end-column="10" />
-        </state>
+        <state relative-caret-position="-210" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Fabio03_q13b.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fabio03_q01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fb03_q23.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="6" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fabio03_q23.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="43" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uri_1098.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fabio03_q11.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fabio03_q17.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fabio03_q21.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fabio03_q16.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wordplay/words.txt">
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/Atv_0_PRVA_LuanDaSilvaRodrigues/alunos.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/wordplay/wordplay.py">
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/Atv_0_PRVA_LuanDaSilvaRodrigues/binario.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="62" column="12" selection-start-line="62" selection-start-column="12" selection-end-line="62" selection-end-column="12" />
+        <state relative-caret-position="-24" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/Atv_0_PRVA_LuanDaSilvaRodrigues/camel_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-164" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/Atv_0_PRVA_LuanDaSilvaRodrigues/comanda.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1232">
+          <caret line="56" column="16" lean-forward="true" selection-start-line="56" selection-start-column="16" selection-end-line="56" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wordplay/wordplay_russia.py">
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/Atv_0_PRVA_LuanDaSilvaRodrigues/dezenas.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="95" selection-start-line="95" selection-end-line="95" />
+        <state relative-caret-position="-1" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/Atv_0_PRVA_LuanDaSilvaRodrigues/marte.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="54" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Fabio06_String/Fabio06_q01.py">
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/Atv_0_PRVA_LuanDaSilvaRodrigues/mdc.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        <state relative-caret-position="8">
+          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/alunos.txt">
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/Atv_0_PRVA_LuanDaSilvaRodrigues/perfeito.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1003">
-          <caret line="59" column="6" selection-start-line="59" selection-start-column="6" selection-end-line="59" selection-end-column="6" />
+        <state relative-caret-position="-101" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/Atv_0_PRVA_LuanDaSilvaRodrigues/sequencia.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1138" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/Atv_O_GeovaneNarciso/PROVA/alunos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-16" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/Atv_O_GeovaneNarciso/PROVA/binario.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="5" column="56" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sorteio.py">
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/Atv_O_GeovaneNarciso/PROVA/camel_case.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+        <state relative-caret-position="-66">
+          <caret line="9" column="53" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Fabio06_String/Fabio06_q03.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fabio06_String/Fabio06_q02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fabio06_String/Fabio06_q03b.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fabio06_String/Fabio06_q04.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fabio06_String/Fabio06_q05.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fabio06_String/Fabio10_q10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uri_1257.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uri_1257.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AtividadeO/mdc_geovane.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AtividadeO/mdc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AtividadeO/perfeito.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AtividadeO/binario.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AtividadeO/dezenas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AtividadeO/alunos.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-27">
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AtividadeO/camel_case.txt">
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/Atv_O_GeovaneNarciso/PROVA/comanda.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret selection-end-column="26" />
+          <folding>
+            <marker date="1530636220000" expanded="true" signature="11:16" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AtividadeO/camel_case.py">
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/Atv_O_GeovaneNarciso/PROVA/dezenas.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
+        <state relative-caret-position="-15" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AtividadeO/marte.py">
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/Atv_O_GeovaneNarciso/PROVA/marte.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        <state relative-caret-position="-118">
+          <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AtividadeO/comanda.py">
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/Atv_O_GeovaneNarciso/PROVA/perfeito.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
-        </state>
+        <state relative-caret-position="-84" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AtividadeO/alunos.py">
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/Atv_O_GeovaneNarciso/PROVA/mdc.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="999">
-          <caret line="37" column="10" lean-forward="true" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
+        <state>
+          <folding>
+            <marker date="1530636220000" expanded="true" signature="11:14" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AtividadeO/sequencia.py">
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/Atv_O_GeovaneNarciso/PROVA/sequencia.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        <state relative-caret-position="-982" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/ATV_O_Paulo_Ricardo/alunos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-124" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/ATV_O_Paulo_Ricardo/binario.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-66" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/ATV_O_Paulo_Ricardo/camel_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="69" selection-start-line="12" selection-start-column="69" selection-end-line="12" selection-end-column="69" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/tentativadeprovadia030718_juliane/alunos.py">
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/ATV_O_Paulo_Ricardo/comanda.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-146" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/ATV_O_Paulo_Ricardo/dezenas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="13" column="65" selection-start-line="13" selection-start-column="65" selection-end-line="13" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/ATV_O_Paulo_Ricardo/perfeito.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_Leo/mdc.py">
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/ATV_O_Paulo_Ricardo/mdc.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        <state relative-caret-position="-70">
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_RonielDias/alunos.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/atv_O_ws/alunos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-322" />
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_MatheusOzorio/mdc.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/atv_O_ws/binario.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/Atividade O Isaias Santana/marte.py">
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/atv_O_ws/comanda.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-341" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/atv_O_ws/dezenas.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/atv_O_ws/marte.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_ElcyJames/mdc.py">
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/atv_O_ws/perfeito.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/avididade_O_LucasCoelho/binario.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-42">
+          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/avididade_O_LucasCoelho/alunos.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/avididade_O_LucasCoelho/mdc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-119" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/avididade_O_LucasCoelho/perfeito.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-38" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/provamanoel/alunos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-237" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/provamanoel/binario.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/provamanoel/camel_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-296" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/provamanoel/comanda.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/provamanoel/dezenas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="48" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/provamanoel/marte.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/provamanoel/sequencia.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1530793570000" expanded="true" signature="11:14" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/provamanoel/perfeito.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/provamanoel/mdc.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/tentativadeprovadia030718_juliane/comanda.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/tentativadeprovadia030718_juliane/alunos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-365" />
+      </provider>
     </entry>
   </component>
 </project>

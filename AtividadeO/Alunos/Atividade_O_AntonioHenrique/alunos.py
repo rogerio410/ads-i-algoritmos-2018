@@ -17,7 +17,7 @@ def main():
             numaprov += 1
             print('Aprovado')
         elif 4 <= media_aluno < 7:
-            numprovafi += 1
+            numprovfi += 1
             print('Em Prova Final')
         else:
             numrepro += 1

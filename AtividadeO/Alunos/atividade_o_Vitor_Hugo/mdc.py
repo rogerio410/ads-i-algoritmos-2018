@@ -1,3 +1,5 @@
+# NAO FEZ EUCLIDES
+
 def main():
     # entrada
     num1 = int(input("Digite um numero inteiro : "))

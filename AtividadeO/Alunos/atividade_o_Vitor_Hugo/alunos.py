@@ -1,3 +1,5 @@
+# NAO ESTRUTUROU
+
 classe = int(input("Digite o numero de alunos da classe (Turma): "))
 contador_reprovados = 0
 contador_aprovados = 0

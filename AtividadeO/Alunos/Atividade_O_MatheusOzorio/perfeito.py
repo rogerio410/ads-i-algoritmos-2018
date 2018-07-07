@@ -7,8 +7,8 @@ def main():
         if N % i == 0:
             contador += i
 
-            if contador == N:
-                print("O número é perfeito")
+    if contador == N:
+        print("O número é perfeito")
 
 
 if __name__ == '__main__':

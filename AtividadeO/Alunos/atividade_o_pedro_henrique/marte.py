@@ -4,7 +4,7 @@ def main():
     indice = 0
     total = 0
 
-    for letra in mensagem:
+    for letra in mensagem:  # NAO PERMITIDO
         if letra != letras[indice]:
             total += 1
 

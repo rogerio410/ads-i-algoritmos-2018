@@ -6,6 +6,8 @@
             return False
 """
 
+# Nao estruturou e ainda esta errada.
+
 def split_frase():
     S = input('')
     palavra = 1

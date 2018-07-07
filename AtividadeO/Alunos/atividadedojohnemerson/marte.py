@@ -4,8 +4,8 @@ def main():
 
     # processamento
     alterados = 0
-    menos_tres_digitos = (S[::-1])[:-3]
-    novo_S = menos_tres_digitos[::-1]
+    menos_tres_digitos = (S[::-1])[:-3]  # SLICE NAO PERMITIDO
+    novo_S = menos_tres_digitos[::-1] # SLICE NAO PERMITIDO
     tamanho = len(S)
 
     while tamanho != 0:

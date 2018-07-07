@@ -9,7 +9,6 @@ def main():
     print(valor)
 
 
-
 if __name__ == '__main__':
     main()
 

@@ -1,6 +1,6 @@
 def main():
     # entrada
-    msg = input().upper()
+    msg = input().upper()  # NAO PEMRITIDO
 
     # processamento
     s_na_msg = 0

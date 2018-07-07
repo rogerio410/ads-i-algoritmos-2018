@@ -11,7 +11,7 @@ def main():
         media_aluno = (float(nota1) + float(nota2) + float(nota3)) / 3
         if media_aluno >= 7:
             aprovados += 1
-        elif 4 <= media_aluno:
+        elif 4 <= media_aluno: # <
             prova_final += 1
         else:
             reprovados += 1

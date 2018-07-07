@@ -1,7 +1,7 @@
 def main():
     # entradas
-    dividendo = 24
-    divisor = 15
+    dividendo = int(input())
+    divisor = int(input())
     resto = 1
     # processamento
     while resto > 0:

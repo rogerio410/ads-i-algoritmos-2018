@@ -5,7 +5,7 @@ def main():
 	binario = input("Digite um numero binario>> ")
 
 	# processamento
-	aux = binario[::-1]
+	aux = binario[::-1]  # NAO PERMITIDO
 
 	tam = len(aux)
 

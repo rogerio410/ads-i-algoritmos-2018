@@ -7,7 +7,7 @@ def main():
 	resp = -1
 	while (resp!=0):
 
-		os.system("cls")
+		os.system("clear")
 		resp = menu()
 
 		if(resp == 1):
@@ -37,7 +37,7 @@ def menu():
 def inserir_produto():
 	global somaConta
 	
-	os.system("cls")
+	os.system("clear")
 	print("------------------------------------------------------------")
 	print("			INSERIR PRODUTO")
 	print("------------------------------------------------------------")
@@ -60,7 +60,7 @@ def inserir_produto():
 def quant_pagantes():
 	global quantPagantes
 	
-	os.system("cls")
+	os.system("clear")
 	print("------------------------------------------------------------")
 	print("			QUANTIDADE DE PAGANTES")
 	print("------------------------------------------------------------")
@@ -74,7 +74,7 @@ def imprimir_conta():
 	global somaConta
 	global quantPagantes
 
-	os.system("cls")
+	os.system("clear")
 	print("------------------------------------------------------------")
 	print("			IMPRIMIR CONTA")
 	print("------------------------------------------------------------")
@@ -94,7 +94,7 @@ def confirmar_pagamento():
 	global somaConta
 	global quantPagantes
 
-	os.system("cls")
+	os.system("clear")
 	print("------------------------------------------------------------")
 	print("			IMPRIMIR CONTA")
 	print("------------------------------------------------------------")

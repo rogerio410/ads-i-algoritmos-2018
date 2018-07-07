@@ -9,7 +9,7 @@ def main():
 def binario(num):
 	numero_decimal = 0
 	
-	num = num[::-1]
+	num = num[::-1]  # NAO PERMITIDO
 
 	for i in range(len(num)):
 		if num[i] == "1":

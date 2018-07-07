@@ -9,7 +9,7 @@ def main():
 def split_frase(frase):
     total_de_palavras = 1
 
-    for letra in frase:
+    for letra in frase: # NAO PERMITIDO
         if eh_maiuscula(letra):
             total_de_palavras += 1
 
@@ -19,7 +19,7 @@ def split_frase(frase):
 def eh_maiuscula(caso):
     letras = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 
-    for letra in letras:
+    for letra in letras:  # NAO PERMITIDO
         if letra == caso:
             return True
 

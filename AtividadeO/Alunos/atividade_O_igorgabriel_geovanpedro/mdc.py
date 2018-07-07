@@ -6,7 +6,8 @@ def main():
             dividendo = c
         return dividendo
 
-    print(mdc(24, 15))
+    #print(mdc(24, 15))
+    print(mdc(int(input()), int(input())))
 
 
 if __name__ == '__main__':

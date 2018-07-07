@@ -3,7 +3,7 @@ def main():
     binario = int(input())
 
     # processamento
-    binario = str(binario)[::-1]
+    binario = str(binario)[::-1]   # SLICE NAO PERMITIDO
     soma = 0
     for i in range(len(binario)):
         if int(binario[i] != 0):

@@ -1,3 +1,6 @@
+# NAO IMPLEMENTOU O EUCLIDES
+
+
 def main():
     # entrada
     numero_um = int(input())

@@ -2,7 +2,7 @@ def main():
     def converter(numero):
         decimal = 0
         numero = str(numero)
-        numero = numero[::-1]
+        numero = numero[::-1]  # dont use it
         tamanho = len(numero)
         for i in range(tamanho):
             if numero[i] == '1':

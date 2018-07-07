@@ -1,6 +1,6 @@
 def main():
 
-    from math import sqrt
+    from math import sqrt  # nao usar!!!
 
     for numero in range(1000, 10000):
         str_numero = str(numero)

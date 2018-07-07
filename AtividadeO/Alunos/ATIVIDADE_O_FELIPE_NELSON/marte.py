@@ -1,7 +1,8 @@
 def main():
 
     mensagem = input('Digite os pedidos de ajuda: ')
-    lista = ['S', 'O', 'S']
+    #lista = ['S', 'O', 'S'] # dont use list
+    lista = 'SOS' # added
     indice_lista = 0
     letras_alteradas = 0
 

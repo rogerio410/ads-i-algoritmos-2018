@@ -10,8 +10,8 @@ def main():
 
         # Criando as dezenas
         numero = str(numero)
-        primeira_dezena = int(numero[:2])
-        segunda_dezena = int(numero[-2:])
+        primeira_dezena = int(numero[:2])   # SLICE NAO PERMITIDO
+        segunda_dezena = int(numero[-2:])   # SLICE NAO PERMITIDO
 
         # Conferindo raiz e soma das dezenas
         soma = primeira_dezena + segunda_dezena
