@@ -2,7 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0a1af54-5b13-4225-adf4-3954721a3ae2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O-Guilherme-Nonato/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade O Isaias Santana/alunos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade O Isaias Santana/binario.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade O Isaias Santana/camel_case.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade O Isaias Santana/comanda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade O Isaias Santana/dezenas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade O Isaias Santana/marte.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade O Isaias Santana/perfeito.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_ElcyJames/alunos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_ElcyJames/binario.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_ElcyJames/comanda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_ElcyJames/dezenas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_ElcyJames/marte.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_ElcyJames/mdc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_ElcyJames/perfeito.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_ElcyJames/sequencia.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_Leo/alunos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_Leo/binario.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_Leo/camel_case.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_Leo/comanda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_Leo/dezenas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_Leo/marte.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_Leo/mdc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_Leo/perfeito.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_Leo/sequência.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_MatheusOzorio/alunos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_MatheusOzorio/binario.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_MatheusOzorio/camel_case.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_MatheusOzorio/comanda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_MatheusOzorio/dezenas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_MatheusOzorio/marte.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_MatheusOzorio/mdc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_MatheusOzorio/perfeito.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_RonielDias/alunos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_RonielDias/binário.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_RonielDias/camel_case.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_RonielDias/comanda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_RonielDias/dezenas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_RonielDias/perfeito.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/atv_O_ws/alunos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/atv_O_ws/binario.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/atv_O_ws/comanda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/atv_O_ws/dezenas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/atv_O_ws/marte.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeO/Alunos/atv_O_ws/perfeito.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -50,7 +94,13 @@
     <SUITE FILE_PATH="coverage/ads_ifpi_2018_algoritmos$Fabio06_q01.coverage" NAME="Fabio06_q01 Coverage Results" MODIFIED="1529517617984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fabio06_String" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="mdc.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_ElcyJames/mdc.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -144,7 +194,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -163,10 +212,32 @@
               <item name="AtividadeO" type="462c0819:PsiDirectoryNode" />
               <item name="Alunos" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ads_ifpi_2018_algoritmos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ads_ifpi_2018_algoritmos" type="462c0819:PsiDirectoryNode" />
+              <item name="AtividadeO" type="462c0819:PsiDirectoryNode" />
+              <item name="Alunos" type="462c0819:PsiDirectoryNode" />
+              <item name="Atividade O Isaias Santana" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ads_ifpi_2018_algoritmos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ads_ifpi_2018_algoritmos" type="462c0819:PsiDirectoryNode" />
+              <item name="AtividadeO" type="462c0819:PsiDirectoryNode" />
+              <item name="Alunos" type="462c0819:PsiDirectoryNode" />
+              <item name="Atividade_O_ElcyJames" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ads_ifpi_2018_algoritmos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ads_ifpi_2018_algoritmos" type="462c0819:PsiDirectoryNode" />
+              <item name="AtividadeO" type="462c0819:PsiDirectoryNode" />
+              <item name="Alunos" type="462c0819:PsiDirectoryNode" />
+              <item name="Atividade_O_MatheusOzorio" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -175,13 +246,13 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/AtividadeO/Alunos" />
-      <recent name="$PROJECT_DIR$/wordplay" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/AtividadeO/Alunos" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/AtividadeO/Alunos" />
+      <recent name="$PROJECT_DIR$/wordplay" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -328,17 +399,17 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.3296" />
-      <window_info anchor="bottom" id="Python Console" order="7" weight="0.64891845" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.2928" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3296" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.64891845" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.33052278" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.36914378" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38045233" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -356,48 +427,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/hello.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uri_1059.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uri_1061.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uri_1050.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uri_1064.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fabio04_q09.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/saidas.rog">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-515" />
@@ -697,6 +726,28 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/tentativadeprovadia030718_juliane/alunos.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_Leo/mdc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_RonielDias/alunos.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_MatheusOzorio/mdc.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/Atividade O Isaias Santana/marte.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/atv_O_ws/marte.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AtividadeO/Alunos/Atividade_O_ElcyJames/mdc.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
