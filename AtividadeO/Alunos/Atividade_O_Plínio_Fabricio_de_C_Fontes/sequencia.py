@@ -22,9 +22,9 @@ def adicao_esquerda_direita():
     soma = 0
     for numero in range(1,10001):
         if n % 2 == 0:
-            soma += 1/numero
-        else:
             soma -= 1/numero
+        else:
+            soma += 1/numero
         n += 1
     return soma
 
