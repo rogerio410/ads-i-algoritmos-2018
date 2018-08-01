@@ -13,17 +13,18 @@ def main():
 
     opcao = int(input(menu))
 
-    while True:
+    # loop do Menu de opcões
+    while opcao != 0:
         if opcao == 1:
             total_jogos(jogos)
-        elif opcao == 0:
-            break
         else:
             print('Opcao Invalida!')
 
-        # pedir nova opcao
+        # limpar a tela
         input('Enter para continuar...')
         os.system('clear')  # se Windows: 'cls'
+
+        # pedir nova opcao
         opcao = int(input(menu))
 
 
