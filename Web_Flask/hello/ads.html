@@ -1,0 +1,93 @@
+<html>
+	<head>
+		<meta charset="utf-8" />
+
+		<title>Home Page</title>
+		<style type="text/css">
+
+			#cabecalho {
+				border: 1px solid green;
+				padding-left: 10px;
+				margin-bottom: 4px;
+			}
+
+			#conteudo{
+				border: 5px dotted blue;
+				padding: 10px;
+			}
+
+			#rodape{
+				border: 3px dashed red;
+				margin-top: 15px;
+			}
+
+			#titulo {
+				color: blue;
+			}
+
+			.bonito {
+				text-decoration: underline;
+			}
+
+			h3 {
+				font-weight: normal;
+			}
+
+			li {
+				color: blue;
+			}
+
+			#tops li{
+				color: red;
+			}
+
+			#logo {
+				width: 300px;
+			}
+
+		</style>
+	</head>
+	<body>
+		
+		<div id="cabecalho">
+			<img src="static/ifpi.png" id="logo" />
+
+			<h1 id="titulo">ANÁLISE E DESENVOLVIMENTO DE SISTEMAS</h1>
+
+			{% if 'user' not in session %}
+				<form action="/entrar" method="post">
+					<input name="usuario" placeholder="login" />
+					<input name="senha" type="password" placeholder="4 caracteres" />
+					<input type="submit" value="Entrar...">
+				</form>
+			{% else %}
+				<p>Usuário: {{ session['user'] }}
+					<a href="/sair">sair</a>
+				</p>
+			{% endif %}
+		</div>
+		
+		<div id="conteudo">
+			<h3> {{ turma }} </h3>
+
+			<h4 style="color: pink;">OS TOPS:</h4>
+			<ul id="tops">
+				{% for aluno in tops %}
+					<li>{{aluno}}</li>
+				{% endfor %}
+			</ul>	
+
+			<h4>OS MASSAS:</h4>	
+			<ul id="massas">
+				{% for aluno in massas %}
+					<li>{{aluno}}</li>
+				{% endfor %}
+			</ul>	
+		</div>
+
+		<div id="rodape">
+			<p>Teresina-PI, 2018 (86) 9944-8756</p>
+		</div>
+		
+	</body>
+</html>
