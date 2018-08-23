@@ -21,7 +21,7 @@ def bubble_sort(lista, reverse=False, key=None):
         fim -= 1
 
 
-def bubble_sort_4_sequences(lista, atributo, reverse=False):
+def bubble_sort_4_sequences(lista, atributo=None, reverse=False):
     fim = len(lista)-1
     trocou = True
     while trocou:
@@ -33,3 +33,4 @@ def bubble_sort_4_sequences(lista, atributo, reverse=False):
                 trocou = True
 
         fim -= 1
+

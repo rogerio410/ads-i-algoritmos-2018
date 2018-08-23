@@ -1,9 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/listas" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AtividadeO" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AtividadeO/Alunos" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Fabio" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Fabio/Fabio06_String" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PensePython" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PensePython/Capitulo10_LIST" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/uri" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wordplay" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Matriz" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AtividadeENEM" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AtividadeV_ROGERIO" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AtividadeV_ROGERIO/alunos" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AtividadeV_ROGERIO/alunos/Atividade_V-Guilherme-Nonato" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AtividadeV_ROGERIO/alunos/Atividade_V -Plinio" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AtividadeV_ROGERIO/alunos/Atividade_V_copas_do_mundo_JOHN" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AtividadeV_ROGERIO/alunos/Atividade_V_GeovaneNarciso" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AtividadeV_ROGERIO/alunos/AtividadeV_BRENDON_LUCAS" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AtividadeV_ROGERIO/alunos/AtividadeV_ISAIAS" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AtividadeV_ROGERIO/alunos/AtividadeV_Natanael_e_Eliton" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AtividadeV_ROGERIO/alunos/AtividadeV_Paulo_Vilarinho" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AtividadeV_ROGERIO/alunos/ATIVIDADE_V_FELIPE_NELSON" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AtividadeV_ROGERIO/alunos/Atividade_V_Francimara" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AtividadeV_ROGERIO/alunos/Atividade_V_Igor_Gabriel" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AtividadeV_ROGERIO/alunos/Atividade_V_Pedro_Henrique" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AtividadeV_ROGERIO/alunos/atividade_vkelvin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AtividadeV_ROGERIO/alunos/AtividadeV_BRUNO_JOSE" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ordenação" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Web_Flask" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Web_Flask/hello" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Web_Flask/hello/static" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Web_Flask/hello/templates" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AtividadeX_ROGERIO" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AtividadeX_ROGERIO/dados" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AtividadeX_ROGERIO/ordenacao" isTestSource="false" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="TemplatesService">
+    <option name="TEMPLATE_FOLDERS">
+      <list>
+        <option value="$MODULE_DIR$/Web_Flask/hello/templates" />
+      </list>
+    </option>
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />

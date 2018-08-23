@@ -1,5 +1,5 @@
 from importacao import *
-from funcionalides import *
+from funcionalidades import *
 import os
 
 
@@ -9,6 +9,7 @@ def main():
 
     menu = '***** FIFA 1930 -- 2014 *****\n' \
            '1 - Quantidade de Jogos\n' \
+           '2 - Listar todos os Jogos\n' \
            '0 - Sair\n'
 
     opcao = int(input(menu))
@@ -16,7 +17,9 @@ def main():
     # loop do Menu de opcões
     while opcao != 0:
         if opcao == 1:
-            total_jogos(jogos)
+            total(jogos)
+        elif opcao == 2:
+            lista_todos(jogos)
         else:
             print('Opcao Invalida!')
 

@@ -7,13 +7,18 @@ Escreva suas funções aqui:
 
 # ##### FUNCIONALIDADES MENU #####
 
-def total_jogos(jogos):
-    print(cabecalho('Total de Jogos'), "Jogos FIFA: {}".format(len(jogos)))
+def total(dados):
+    print(cabecalho('Total de Coligacoes'), "Coligações: {}".format(len(dados)))
+
+
+def lista_todos(dados):
+    for registro in dados:
+        print(registro)
 
 
 # ### FUNCOES AUXILIARES ###
 # Ex.: para ordenação, filtragens genéricas, reduções reaproveitáveis
 
 def cabecalho(titulo):
-    return ('***** FIFA 1930 -- 2014 *****\n'
+    return ('***** ***** ELEIÇÕES TERESINA/2012 ***** *****\n'
             ' >> {} <<\n'.format(titulo))

@@ -10,11 +10,12 @@ def importar(arquivo='Partidas_CopaMundo_1930_2014.csv'):
     Depois, Pref > File Encoding > "Add file e select" ISO-8859-1
 
     """
-    fin = open(arquivo, encoding="ISO-8859-1")
+    #fin = open(arquivo, encoding="ISO-8859-1")
+    fin = open(arquivo)
 
     jogos = []
     fin.readline()  # titulos das colunas
     for linha in fin.readlines():
-        jogos.append(linha)
+        jogos.append(linha.strip().split(';'))
 
     return jogos
