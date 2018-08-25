@@ -13,11 +13,11 @@ def main():
     # preencher listas com dados importados: lista de dicionarios
     inicializar_dados(coligacoes, vereadores)
 
-    # Computacoes iniciais
+    # Computacoes iniciais: Total de Votos e Quociente Eleitoral
     total_votos = total_votos_validos(vereadores)
     quociente_eleitoral = total_votos // qtd_vagas
 
-    # Distribuir Vagas
+    # Distribuir Vagas por QP e Por Média
     qtd_vagas_sobra = calcular_qtd_vagas_por_quociente_eleitoral(coligacoes, qtd_vagas, quociente_eleitoral)
     calcular_qtd_vagas_por_media(coligacoes, qtd_vagas_sobra)
 
