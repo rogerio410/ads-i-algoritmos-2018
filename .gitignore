@@ -1,2 +1,4 @@
 python3
 *.xml
+/.idea/ads_ifpi_2018_algoritmos.iml
+.idea/*
