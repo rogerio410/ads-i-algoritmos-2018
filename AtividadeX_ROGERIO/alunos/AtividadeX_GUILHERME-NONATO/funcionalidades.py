@@ -6,7 +6,7 @@ Escreva suas funções aqui:
 
 
 # ##### FUNCIONALIDADES MENU #####
-from ordenacao.select_sort import select_sort
+from select_sort import select_sort
 
 def total(dados):
     print(cabecalho('Total de Coligacoes'), "Coligações: {}".format(len(dados)))

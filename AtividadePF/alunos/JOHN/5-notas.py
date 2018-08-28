@@ -20,8 +20,8 @@ def main():
         if alunos[j]['situacao'] == 'A':
             alunos[j]['bonus'] += 0.5
 
-        media_ponderada = ((alunos[j]['nota_parte_1'] * 1) + (alunos[j]['nota_parte_2'] * 2) + (alunos[j]['bonus'])) / (1 + 2)
-        alunos[j]['media'] = media_ponderada
+        media_ponderada = ((alunos[j]['nota_parte_1'] * 1) + (alunos[j]['nota_parte_2'] * 2)) / (1 + 2)
+        alunos[j]['media'] = media_ponderada + (alunos[j]['bonus'])
 
         if alunos[j]['media'] >= 7.0:
             alunos[j]['situacao_2'] = 'APROVADO'

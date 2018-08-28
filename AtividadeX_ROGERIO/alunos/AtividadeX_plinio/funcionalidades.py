@@ -40,7 +40,5 @@ def total_votos_por_coligacao(vereadores, coligacoes):
 def ordem_votacao(vereadores):
     lista = []
     contador = 29
-    for i in range(vereadores):
-
-
+    # for i in range(vereadores):
 
